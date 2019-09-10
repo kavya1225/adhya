@@ -1,2 +1,0 @@
-# adhya
-creating git hub 
